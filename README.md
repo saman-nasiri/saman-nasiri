@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Transportation project
+- 🔭 I’m currently working on SQL DataBase and Prisma orm
+- 📫 How to reach me: saman.na30ri@gmail.com
 
 ### Connect with me: 
 https://www.linkedin.com/in/saman-nasiri-59b1b11a7/
