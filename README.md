@@ -64,6 +64,7 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
 </p>
 </br></br></br>
+</br></br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=saman-nasiri&show_icons=true&count_private=true&theme=github_dark" alt="saman-nasiri" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saman-nasiri&layout=compact&hide=makefile,cmake,c%2B%2B,c,html,java,assembly,shell,css,python&theme=github_dark&exclude_repo=efcore,ReportSharp.DatabaseReporter,ReportSharp.DiscordReporter,ReportSharp.Api,dotnet_template,AppCommand,socket_sharp" alt="saman-nasiri" /></p>
 </br>
