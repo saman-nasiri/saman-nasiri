@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Saman Nasiri </h1>
 <h3 align="center">A BackEnd developer 🚀.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AshkanAbd&label=Profile%20views&color=blue&style=flat" alt="AshkanAbd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saman-nasiri&label=Profile%20views&color=blue&style=flat" alt="saman-nasiri" /> </p>
 
 - 🔭 I’m currently working on **SQL DataBase and Prisma ORM**
 
