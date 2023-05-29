@@ -11,13 +11,13 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/saman-nasiri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
 </p>
-
+---
 <div align="left">
 <h3 >Languages:</h3>
 <p > 
 <!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp; -->
 <!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg' alt="tool" width="40" height="40"/>&nbsp; -->
-<!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp; -->
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt="tool" width="40" height="40"/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' alt="tool" width="40" height="40"/>&nbsp;
 <!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt="tool" width="40" height="40"/> -->
@@ -29,14 +29,9 @@
 <!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg' alt="tool" width="40" height="40"/>&nbsp; -->
 <!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg' alt="tool" width="40" height="40"/> -->
 </p>
-  <h3> Databases: </h3>
-
-<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
-![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
-![MariaDb](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb&logoColor=4479A1)
-![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791) -->
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg' alt="tool" width="40" height="40"/>&nbsp; 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
+ <h3> Databases: </h3> 
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
@@ -59,6 +54,8 @@
 <!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp; -->
 <!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp; -->
 <!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp; -->
+<!--   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg' alt="tool" width="40" height="40"/>&nbsp; 
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp; -->
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
