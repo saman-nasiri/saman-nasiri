@@ -31,10 +31,15 @@
 </p>
   <h3> Databases: </h3>
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
+<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 ![MariaDb](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb&logoColor=4479A1)
-![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
+![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791) -->
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg' alt="tool" width="40" height="40"/>&nbsp; 
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
   
 <h3 >Tools:</h3>
 <p >
@@ -57,15 +62,9 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
+
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' alt="tool" width="40" height="40"/>&nbsp;
-<!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg' alt="tool" width="40" height="40"/>&nbsp; -->
-<!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp; -->
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg' alt="tool" width="40" height="40"/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
