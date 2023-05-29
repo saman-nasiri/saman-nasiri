@@ -29,6 +29,13 @@
 <!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg' alt="tool" width="40" height="40"/>&nbsp; -->
 <!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg' alt="tool" width="40" height="40"/> -->
 </p>
+  <h3> Databases: </h3>
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
+![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
+![MariaDb](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb&logoColor=4479A1)
+![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
+  
 <h3 >Tools:</h3>
 <p >
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
@@ -63,6 +70,9 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
 </p>
+  <h3> IDEs: </h3>
+
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 </br></br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=saman-nasiri&show_icons=true&count_private=true&theme=github_dark" alt="saman-nasiri" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saman-nasiri&layout=compact&hide=makefile,cmake,c%2B%2B,c,html,java,assembly,shell,css,python,typescript,ruby&theme=github_dark&exclude_repo=efcore,ReportSharp.DatabaseReporter,ReportSharp.DiscordReporter,ReportSharp.Api,dotnet_template,AppCommand,socket_sharp" alt="saman-nasiri" /></p>
